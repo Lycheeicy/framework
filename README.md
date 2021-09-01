@@ -7,6 +7,7 @@
 <h4>启动前端</h4>
 <p>npm install</p>
 <p>cd到ui目录下  npm run dev</p>
+<p>刷新gradle</p>
 <p>启动后端</p>
 
 <p>开始开发吧！</p>
