@@ -3,10 +3,12 @@
 
 
 <h2>食用方式</h2>
-启动前端 
-cd到ui目录下  npm run dev
 
-启动后端
+<h4>启动前端</h4>
+1. npm install
+2. cd到ui目录下  npm run dev
+
+<h4>启动后端</h4>
 启动springboot
 
 <h2>食用效果</h2>
